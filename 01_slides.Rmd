@@ -215,7 +215,7 @@ An under discussed benefit of this principle is that increases access to knowled
 
 # M3: Prevent Loss of Knowledge  
 
-Every semester, graduate students around **the world** take an Empirical/Applied [`...`] Economics course. A typical assignment consists of reproducing the results of a paper and, possibly, testing the robustness of its results. 
+Every semester, graduate students around **the world** take an Empirical/Applied [`...`] course (e.g., Labor Economics, Social Psychology). A typical assignment consists of reproducing the results of a paper and, possibly, testing the robustness of its results. 
 
 --
    
