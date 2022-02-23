@@ -482,6 +482,104 @@ output6 -> {spec11 spec12}
 ```
 
 ---
+count: true  
+
+# .font70[Large part of this exercise is about standardization]
+
+.pull-left[
+- Computational Reproduction (or Reproduction)
+
+- Replication (will not mention this term again!) 
+
+- Reproduction attempt
+
+- Reproduction package
+
+- Claim
+
+- Display item
+
+- Specification  
+
+- Preferred specification  
+
+- Raw data  
+
+- Analysis data
+]
+
+.pull-right[
+
+- Candidate paper 
+
+- Declared paper
+
+- Reproduction tree
+
+- Complete Workflow
+
+- Computationally Reproducible from Analytic data (CRA)
+
+- Computationally Reproducible from Raw data (CRR)
+
+- Reasonable test
+
+- Feasible test
+
+- Minimal effort
+
+]
+
+---
+count: false  
+
+# .font70[Large part of this exercise is about standardization]
+
+.pull-left[
+- **Computational Reproduction (or Reproduction)**
+
+- **Replication (will not mention this term again!) **
+
+- Reproduction attempt
+
+- **Reproduction package**
+
+- Claim
+
+- Display item
+
+- Specification  
+
+- Preferred specification  
+
+- **Raw data**  
+
+- **Analysis data**
+]
+
+.pull-right[
+
+- **Candidate paper** 
+
+- **Declared paper**
+
+- Reproduction tree
+
+- Complete Workflow
+
+- Computationally Reproducible from Analytic data (CRA)
+
+- Computationally Reproducible from Raw data (CRR)
+
+- Reasonable test
+
+- Feasible test
+
+- Minimal effort
+
+]
+
+---
 background-image:  url(Images/home_page.png)
 background-size: contain
 count:true
@@ -979,6 +1077,15 @@ Consult the <br> supporting <br>
 ]
 
 ---
+background-image: url(Images/metrics1.png) ,url(Images/metrics2.png)
+background-size:  700px,  400px
+background-position:  0% 10%, 95% 30%
+count:true
+# Who Is Using The SSRP?
+
+
+
+---
 class: inverse, center, middle
 
 # .font140[ Thank You]
@@ -989,6 +1096,6 @@ class: inverse, center, middle
 .font190[
 <acre@berkeley.edu>
 ]
-```{r gen_pdf, include = FALSE, cache = FALSE, eval = TRUE}
+```{r gen_pdf, include = FALSE, cache = FALSE, eval = FALSE}
 pagedown::chrome_print("01_slides.html", output = "01_slides.pdf")
 ```
